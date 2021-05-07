@@ -4,7 +4,7 @@ class Game{
       this.greeting = createElement('h2');
       this.button1=createButton('You Have An Emergency?');
       this.playerId = createElement('h3');
-      this.button2= createButton('Date And Time');
+      this.button2= createButton('Time');
       this.button3= createButton('Travel Check');
       this.button4= createButton('Lets Protect Ourselves From Covid-19');
       this.button5= createButton('Do Yoga');
